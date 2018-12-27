@@ -13,8 +13,8 @@ ch7 = 'Chapter 7: Flow Control'
 ch8 = 'Chapter 8: Arrays and Iterators'
 ch9 = 'Chapter 9: Writing Your Own Methods'
 puts ('Table of Contents'.center(line_width*1.3))
-puts (ch1.ljust(line_width*0.9)) + ('Page 1'.rjust(line_width*0.38))
-puts (ch2.ljust(line_width*0.9)) + ('Page 9'.rjust(line_width*0.38))
+puts (ch1.ljust(line_width*0.9)) + ('Page  1'.rjust(line_width*0.4))
+puts (ch2.ljust(line_width*0.9)) + ('Page  9'.rjust(line_width*0.4))
 puts (ch3.ljust(line_width*0.9)) + ('Page 13'.rjust(line_width*0.4))
 puts (ch4.ljust(line_width*0.9)) + ('Page 17'.rjust(line_width*0.4))
 puts (ch5.ljust(line_width*0.9)) + ('Page 21'.rjust(line_width*0.4))
