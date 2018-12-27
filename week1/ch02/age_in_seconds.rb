@@ -4,4 +4,4 @@
 # And don't forget to take leap years into account!
 
 
-### Your Code Here ###
+puts (60*60*24)*(36*366 + 114*365 + 281)

@@ -4,4 +4,4 @@
 # Use 365.25 days/year to both take leap years into account and get a more accurate decimal
 
 
-### Your Code Here ###
+puts 1160000000/(60*60*24*365.25)
